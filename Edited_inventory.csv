@@ -1,0 +1,30 @@
+,Unnamed: 0,location,product_type,product_description,quantity,price,in_stock,total_value,full_description
+0,0,Staten Island,seeds,daisy,4,6.99,True,27.96,seeds - daisy
+1,1,Staten Island,seeds,calla lily,46,19.99,True,919.54,seeds - calla lily
+2,2,Staten Island,seeds,tomato,85,13.99,True,1189.15,seeds - tomato
+3,3,Staten Island,garden tools,rake,4,13.99,True,55.96,garden tools - rake
+4,4,Staten Island,garden tools,wheelbarrow,0,89.99,False,0.0,garden tools - wheelbarrow
+5,5,Staten Island,garden tools,spade,93,19.99,True,1859.07,garden tools - spade
+6,6,Staten Island,pest_control,insect killer,74,12.99,True,961.26,pest_control - insect killer
+7,7,Staten Island,pest_control,weed killer,8,23.99,True,191.92,pest_control - weed killer
+8,8,Staten Island,planter,20 inch terracotta planter,0,17.99,False,0.0,planter - 20 inch terracotta planter
+9,9,Staten Island,planter,8 inch plastic planter,53,3.99,True,211.47,planter - 8 inch plastic planter
+10,10,Brooklyn,seeds,daisy,50,6.99,True,349.5,seeds - daisy
+11,11,Brooklyn,seeds,calla lily,0,19.99,False,0.0,seeds - calla lily
+12,12,Brooklyn,seeds,tomato,0,13.99,False,0.0,seeds - tomato
+13,13,Brooklyn,garden tools,rake,15,13.99,True,209.85,garden tools - rake
+14,14,Brooklyn,garden tools,wheelbarrow,82,89.99,True,7379.179999999999,garden tools - wheelbarrow
+15,15,Brooklyn,garden tools,spade,36,19.99,True,719.64,garden tools - spade
+16,16,Brooklyn,pest_control,insect killer,80,12.99,True,1039.2,pest_control - insect killer
+17,17,Brooklyn,pest_control,weed killer,76,23.99,True,1823.2399999999998,pest_control - weed killer
+18,18,Brooklyn,planter,20 inch terracotta planter,5,17.99,True,89.94999999999999,planter - 20 inch terracotta planter
+19,19,Brooklyn,planter,8 inch plastic planter,26,3.99,True,103.74000000000001,planter - 8 inch plastic planter
+20,20,Queens,seeds,daisy,57,6.99,True,398.43,seeds - daisy
+21,21,Queens,seeds,calla lily,95,19.99,True,1899.05,seeds - calla lily
+22,22,Queens,seeds,tomato,45,13.99,True,629.55,seeds - tomato
+23,23,Queens,garden tools,rake,21,13.99,True,293.79,garden tools - rake
+24,24,Queens,garden tools,wheelbarrow,98,89.99,True,8819.019999999999,garden tools - wheelbarrow
+25,25,Queens,garden tools,spade,26,19.99,True,519.74,garden tools - spade
+26,26,Queens,pest_control,insect killer,0,12.99,False,0.0,pest_control - insect killer
+27,27,Queens,pest_control,weed killer,16,23.99,True,383.84,pest_control - weed killer
+28,28,Queens,planter,20 inch terracotta planter,87,17.99,True,1565.1299999999999,planter - 20 inch terracotta planter
